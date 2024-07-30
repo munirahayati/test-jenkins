@@ -1,2 +1,2 @@
 console.log("Work Start Here");
-console.log("YOU NOOB");
+console.log("You are learning");
